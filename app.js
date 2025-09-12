@@ -40,7 +40,7 @@ function agregarAmigo(){
         asignarTextoElemento('listaAmigos', `${amigos}`);
     }    
 
-    //Invoco la lista
+    return;
 
 }
 
